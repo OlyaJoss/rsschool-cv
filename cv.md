@@ -11,7 +11,7 @@
 - **LinkedIn**: [OlgaIsakov](https://www.linkedin.com/in/olga-isakov-5583a624a/)
 ## About me
 Hello, my name is Olga. I've been working as a freelancer for 2 (two) years.
-I have great communication skills and good personality. I follow coding standards. I have experience in designing client-side(React) and server-side architecture (Node.js, Express, MySQL). I’ve worked with international team using git and task trackers. Experience in designing, building, and maintaining **RESTful APIs.**
+I have great communication skills and good personality. I follow coding standards. I have experience in designing client-side(React) and server-side architecture (Node.js, Express, MySQL). I’ve worked with international team using git and task trackers. Experience in designing, building, and maintaining RESTful APIs.
 
 ## My skils
 - **Front-end skills:**  HTML, BEM method, Adaptive and Responsive layout, CSS, Less, StyledComponents, Chakra UI, SPA with REST APIs, JavaScript ES6, React, React-router, Redux.
